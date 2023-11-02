@@ -20,6 +20,4 @@ public class BitCaskTest {
         }
         studentBitCask.dumpIndexTo("Student.index");
     }
-
-
 }
